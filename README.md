@@ -1,6 +1,6 @@
 ### Hola, mi nombre es Nelson González 👋
 
-Como ingeniero en mecatrónica enfocado en análisis de datos y data science, he desarrollado un perfil profesional sólido a través de mi perfil de GitHub. En esta plataforma, he creado una colección de ejercicios autodidactas, demostrando mi dedicación y pasión por adquirir nuevos conocimientos en el campo y mi capacidad para aplicarlos de manera práctica.
+Como un ingeniero mecatrónico íntegro y ético con habilidades investigativas y de autoaprendizaje. Poseo experiencia en automatización y control de procesos, así como en la gestión de bases de datos. Me apasiona el análisis de datos, la inteligencia artificial y el machine learning, y también tengo habilidades como programador backend. Busco oportunidades como programador backend o científico de datos junior, donde pueda desarrollar soluciones tecnológicas innovadoras y utilizar mis conocimientos en el manejo de datos, programación y desarrollo de aplicaciones. Estoy comprometido con la excelencia y orientado a lograr resultados exitosos en equipo.
 
 Utilizando tutoriales y diversas fuentes de aprendizaje, he abordado proyectos que destacan mis habilidades en análisis de datos, manipulación de datos, visualización de datos y aprendizaje automático. Mi perfil de GitHub se ha convertido en una vitrina donde las empresas pueden explorar y evaluar mis habilidades técnicas y mi capacidad para resolver problemas complejos.
 
@@ -13,6 +13,7 @@ Al mostrar mi perfil de GitHub en mi hoja de vida, proporciono una prueba tangib
 * Firebase
 * SQL
 * Node.Js
+* Angular
 
 <!--
 **gonzo120/gonzo120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
