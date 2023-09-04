@@ -1,10 +1,13 @@
 ### Hola, mi nombre es Nelson González 👋
 
-Como un ingeniero mecatrónico íntegro y ético con habilidades investigativas y de autoaprendizaje. Poseo experiencia en automatización y control de procesos, así como en la gestión de bases de datos. Me apasiona el análisis de datos, la inteligencia artificial y el machine learning, y también tengo habilidades como programador backend. Busco oportunidades como programador backend o científico de datos junior, donde pueda desarrollar soluciones tecnológicas innovadoras y utilizar mis conocimientos en el manejo de datos, programación y desarrollo de aplicaciones. Estoy comprometido con la excelencia y orientado a lograr resultados exitosos en equipo.
-
-Utilizando tutoriales y diversas fuentes de aprendizaje, he abordado proyectos que destacan mis habilidades en análisis de datos, manipulación de datos, visualización de datos y aprendizaje automático. Mi perfil de GitHub se ha convertido en una vitrina donde las empresas pueden explorar y evaluar mis habilidades técnicas y mi capacidad para resolver problemas complejos.
-
-Al mostrar mi perfil de GitHub en mi hoja de vida, proporciono una prueba tangible de mi experiencia práctica en el campo de análisis de datos y data science, a pesar de la falta de experiencia laboral formal. Esto demuestra mi dedicación, iniciativa y motivación para seguir aprendiendo y creciendo en este campo emocionante.
+Ingeniero mecatrónico con experiencia en el desarrollo de aplicaciones backend utilizando HTML, CSS y Python, en
+conjunto con frameworks como Angular, JavaScript (incluyendo Express y NodeJS), Django y Django Rest Framework.
+Competente en la gestión de bases de datos tanto Relacionales (MySQL, SQL Server, PostgreSQL) como NoSQL
+(MongoDB y Firebase). Con conocimientos en programación backend que está respaldado por habilidades
+fundamentales como trabajo en equipo, orientación a resultados y un compromiso firme con la excelencia. Además,
+poseo conocimientos en gobierno de datos, Big Data, Analytics y gestión de presupuestos. He implementado prácticas
+efectivas de versionado de APIs y gestionado proyectos con GitHub para garantizar un desarrollo backend sólido. Con el
+objetivo de contribuir al desarrollo de soluciones tecnológicas innovadoras y ser participe de equipos exitosos.
 
 ## Tecnologías:
 
